@@ -11,9 +11,9 @@ toc_label: "페이지 주요 목차"
 ![saju](/assets/images/saju.png)
 ~~~c
 
-#include <studio.h>
- int main(void)
- {  int year,month,day,result:
+ #include <studio.h>
+  int main(void)
+  {  int year,month,day,result:
     
     printf("당신의 사주를 봐드립니다.\n");
     printf("연도 월 일을 차례대로 입력하세요 : ");
